@@ -1,11 +1,15 @@
-# About us!
+# Forgetting
 
-here is some info about me
+*let's do this*
 
-here is a **photo**
+[Take Me Home](index.md)
 
-we hope you *like it*
 
-![Senior Project](MS1/tumblr_ownrmrCSxC1rel3seo1_1280.png)
 
-[Back to Home](index.md)
+
+
+
+
+
+
+*country roads*
