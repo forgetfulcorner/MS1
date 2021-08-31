@@ -2,5 +2,5 @@
 
 *let's do this*
 
-[take me home](index.md) *(country roads)*
+[i don't remember how i got here](index.md)
 
