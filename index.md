@@ -1,3 +1,3 @@
-# Welcome Index.md!
+# i forget!
 
-[about us](about.md)
+[how to forget](about.md)
