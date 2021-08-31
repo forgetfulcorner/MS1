@@ -1,6 +1,6 @@
-# Forgetting
+# forgetting
 
 *let's do this*
 
-[Take Me Home](index.md) *(country roads)*
+[take me home](index.md) *(country roads)*
 
