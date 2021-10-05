@@ -239,5 +239,10 @@ body .gist .gist-meta {
 .fullwidth {
   width: 100%;
   float: left;
+  padding-bottom: 25px;
 }
 
+.listbullet{
+  list-style-type: disc;
+  margin-left: 15px;
+}
