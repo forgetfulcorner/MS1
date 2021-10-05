@@ -123,11 +123,18 @@ iframe {
 }
 
 img {
-  height: 400px;
+  height: auto;
+  width: 600px;
   display: inline-block;
   float: left;
   margin-bottom: 2%;
   margin-right: 2%;
+}
+
+video {
+  height: auto;
+  width: 600px;
+
 }
 
 body .gist .gist-file {
@@ -209,7 +216,7 @@ body .gist .gist-meta {
 
   img {
     width: 100%;
-    height: auto;
+    height: 100%;
   }
 }
 
