@@ -1,11 +1,19 @@
 /* CSS files add styling rules to your content */
 
+/*
 body {
   font-family: monospace;
   margin: 2em;
   width: 100%;
   height: 100%;
 }
+*/
+
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
 
 h1 {
   color: #373fff;
@@ -245,4 +253,13 @@ body .gist .gist-meta {
 .listbullet{
   list-style-type: disc;
   margin-left: 15px;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+a:hover { 
+  background-color: yellow;
 }
